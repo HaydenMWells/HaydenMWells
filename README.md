@@ -1,5 +1,5 @@
 # 💻 Hayden Wells
-### <h3 style="font-family: 'Courier New',, monospace;">` DigitalCraftsman (Developer/Productive Leaner/Competitive Gamer)`</h3>
+### <h3 style="font-family: 'Courier New',, monospace;">` DigitalCraftsman (Developer/Productive Learner/Competitive Gamer)`</h3>
 
 #### Hello! I'm a young and aspiring junior software developer who is taking small, deliberate steps toward mastering the vast world of technology. With a passion for both frontend and backend development, I’m excited to explore how technology can be used to solve real-world problems, as well as create beautiful designs. My journey into the tech world has been one of constant learning and growth, as I dive deeper into coding, frameworks, and the full development lifecycle.
 
